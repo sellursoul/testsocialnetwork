@@ -1,0 +1,14 @@
+.head {
+    grid-area: h;
+    background-color: mediumslateblue;
+}
+.head img {
+    width: 82px;
+}
+.loginBlock {
+    float: right;
+}
+.loginBlock a {
+    color: black;
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.sideBar {
+    grid-area: n;
+    background-color: mediumslateblue;
+    padding: 20px;
+}
+.item {
+    color: white;
+    text-decoration: none;
+}
+.active {
+    color: aliceblue;
+}
